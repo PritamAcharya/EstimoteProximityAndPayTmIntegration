@@ -180,7 +180,7 @@ public class MainActivity extends AppCompatActivity {
                 imageView.setVisibility(View.GONE);
                  textView.setVisibility(View.GONE);
                 textView2.setVisibility(View.VISIBLE);
-                Log.e("choot",s);
+
 
                CustomAdapter customAdapter= new CustomAdapter(MainActivity.this,s);
 
